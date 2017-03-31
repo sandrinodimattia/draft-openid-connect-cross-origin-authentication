@@ -54,7 +54,7 @@ Copyright Notice
 
 
 Hanson                   Expires October 1, 2017                [Page 1]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -110,7 +110,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 2]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -166,7 +166,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 3]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -208,7 +208,6 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
    Host: server.example.com
    Origin: https://www.example.net
    Content-Type: application/json
-   Cookie: sid=xxxxxxxx
 
    { "client_id": "s6BhdRkqt3", "credential_type": "password",
      "username": "jane", "password": "s3cr1t" }
@@ -222,7 +221,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 4]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -278,7 +277,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 5]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -334,7 +333,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 6]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
@@ -390,7 +389,7 @@ Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
 Hanson                   Expires October 1, 2017                [Page 7]
-
+
 Internet-Draft OpenID Connect Cross-Origin Authentication     March 2017
 
 
